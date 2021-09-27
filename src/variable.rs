@@ -10,7 +10,7 @@ pub fn run(){
 
     // add "mut" before variable to make it mutable
     let mut age2=32;
-    println!("Name: {}, age: {}",name,age);
+    println!("Name: {}, age: {}",name,age2);
     age2=33;
     println!("Name: {}, age: {}",name,age2);
 
