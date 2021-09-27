@@ -28,7 +28,6 @@ pub fn run() {
     }
     println!("--------------");
     //for range loop
-    cnt=1;
     for cnt in 1..20 {
         if cnt%15==0{
             println!("FizzBuzz");
