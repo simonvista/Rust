@@ -7,7 +7,8 @@
 // mod vectors;
 // mod condition;
 // mod loops;
-mod functions;
+// mod functions;
+mod pointer_reference;
 
 fn main() {
     // println!("Hello, world!");  
@@ -20,5 +21,6 @@ fn main() {
     // vectors::run();
     // condition::run();
     // loops::run();
-    functions::run();
+    // functions::run();
+    pointer_reference::run();
 }
