@@ -8,7 +8,8 @@
 // mod condition;
 // mod loops;
 // mod functions;
-mod pointer_reference;
+// mod pointer_reference;
+mod structs;
 
 fn main() {
     // println!("Hello, world!");  
@@ -22,5 +23,6 @@ fn main() {
     // condition::run();
     // loops::run();
     // functions::run();
-    pointer_reference::run();
+    // pointer_reference::run();
+    structs::run();
 }
