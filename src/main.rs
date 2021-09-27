@@ -1,9 +1,12 @@
 // mod print_format;
 // mod variable;
-mod data_type;
+// mod data_type;
+mod strings;
+
 fn main() {
     // println!("Hello, world!");  
     // print_format::run();
     // variable::run();
-    data_type::run();
+    // data_type::run();
+    strings::run();
 }
