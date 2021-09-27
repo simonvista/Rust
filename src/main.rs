@@ -9,7 +9,8 @@
 // mod loops;
 // mod functions;
 // mod pointer_reference;
-mod structs;
+// mod structs;
+mod enums;
 
 fn main() {
     // println!("Hello, world!");  
@@ -24,5 +25,6 @@ fn main() {
     // loops::run();
     // functions::run();
     // pointer_reference::run();
-    structs::run();
+    // structs::run();
+    enums::run();
 }
